@@ -1,0 +1,18 @@
+{
+  "symbol": "SBIN.NS",
+  "entry_price": 971.9,
+  "stop_price": 968.06,
+  "target_price": 979.58,
+  "risk_per_share": 3.84,
+  "risk_pct": 0.4,
+  "reward_per_share": 7.68,
+  "reward_risk_ratio": 2.0,
+  "stop_rule": "atr:1.5",
+  "stop_desc": "1.5x ATR14 (\u20b92.56) under entry",
+  "target_rule": "2R",
+  "target_desc": "2R Target (2.0x Risk)",
+  "flat_by": "15:15",
+  "plan_timestamp": "2026-10-29 12:57:27 IST",
+  "vwap": 964.9,
+  "atr14": 2.56
+}

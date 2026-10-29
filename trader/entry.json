@@ -1,0 +1,15 @@
+{
+  "symbol": "SBIN.NS",
+  "setup": "confluence",
+  "status": "triggered",
+  "triggered": true,
+  "trigger_price": 971.9,
+  "suggested_stop": 967.24,
+  "bar_time": "2026-10-29 15:25:00 IST",
+  "interval": "5m",
+  "latest_close": 971.9,
+  "vwap": 964.76,
+  "supertrend": "BULLISH",
+  "bullish_pct": 89.3,
+  "reason": "High Confluence (89.3% Bullish) + Price > VWAP (\u20b9964.76) + SuperTrend Bullish"
+}

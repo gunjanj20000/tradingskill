@@ -1,0 +1,41 @@
+{
+  "alerts": [
+    {
+      "id": "ALT-SBIN.NS-FLAT",
+      "symbol": "SBIN.NS",
+      "type": "time",
+      "target_time": "15:15",
+      "condition": "time_reached",
+      "note": "INTRADAY SQUARE-OFF CUTOFF: Flatten SBIN.NS before 15:15 IST broker penalty",
+      "triggered": false
+    },
+    {
+      "id": "ALT-SBIN.NS-STOP",
+      "symbol": "SBIN.NS",
+      "type": "stop",
+      "threshold_price": 968.06,
+      "condition": "below_or_equal",
+      "note": "STOP-LOSS HIT: Flatten SBIN.NS immediately",
+      "triggered": false
+    },
+    {
+      "id": "ALT-SBIN.NS-TARGET",
+      "symbol": "SBIN.NS",
+      "type": "target",
+      "threshold_price": 979.58,
+      "condition": "above_or_equal",
+      "note": "PROFIT TARGET REACHED: Take profit on SBIN.NS",
+      "triggered": false
+    },
+    {
+      "id": "ALT-SBIN.NS-FLAT",
+      "symbol": "SBIN.NS",
+      "type": "time",
+      "target_time": "15:15",
+      "condition": "time_reached",
+      "note": "INTRADAY SQUARE-OFF CUTOFF: Flatten SBIN.NS before 15:15 IST broker penalty",
+      "triggered": false
+    }
+  ],
+  "last_updated": "2026-10-29 12:57:29 IST"
+}

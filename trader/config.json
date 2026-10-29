@@ -1,0 +1,15 @@
+{
+  "account_capital_inr": 100000.0,
+  "max_risk_per_trade_inr": 1000.0,
+  "max_daily_loss_inr": 3000.0,
+  "max_trades_per_day": 5,
+  "max_open_positions": 3,
+  "intraday_leverage": 5.0,
+  "min_reward_risk": 1.5,
+  "no_entries_before": "09:20",
+  "no_entries_after": "14:45",
+  "flat_by": "15:15",
+  "require_stop": true,
+  "paper": true,
+  "blocked_symbols": []
+}

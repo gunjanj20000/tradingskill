@@ -1,0 +1,47 @@
+{
+  "scan_time": "2026-10-29T12:48:34.694296",
+  "setup": "confluence",
+  "total_scanned": 5,
+  "total_hits": 3,
+  "watchlist": [
+    {
+      "symbol": "SBIN.NS",
+      "price": 971.9000244140625,
+      "setup": "confluence",
+      "reason": "78.6% Bullish Confluence (22/28 indicators)",
+      "bullish_pct": 78.6,
+      "verdict": "STRONG BUY",
+      "entry_trigger": 971.9,
+      "suggested_stop": 964.77,
+      "rsi": 76.26,
+      "vwap": 964.9,
+      "supertrend": "BULLISH"
+    },
+    {
+      "symbol": "INFY.NS",
+      "price": 1146.5,
+      "setup": "confluence",
+      "reason": "75.9% Bullish Confluence (22/29 indicators)",
+      "bullish_pct": 75.9,
+      "verdict": "STRONG BUY",
+      "entry_trigger": 1146.5,
+      "suggested_stop": 1138.02,
+      "rsi": 70.48,
+      "vwap": 1137.12,
+      "supertrend": "BULLISH"
+    },
+    {
+      "symbol": "TCS.NS",
+      "price": 2478.0,
+      "setup": "confluence",
+      "reason": "53.6% Bullish Confluence (15/28 indicators)",
+      "bullish_pct": 53.6,
+      "verdict": "NEUTRAL",
+      "entry_trigger": 2478.0,
+      "suggested_stop": 2477.2,
+      "rsi": 54.55,
+      "vwap": 2477.38,
+      "supertrend": "BULLISH"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "cash_balance_inr": 49461.2,
+  "positions": [
+    {
+      "order_id": "ORD-20261029125343",
+      "symbol": "SBIN.NS",
+      "side": "BUY",
+      "quantity": 260,
+      "fill_price": 971.9,
+      "stop_loss": 968.06,
+      "take_profit": 979.58,
+      "product": "MIS",
+      "margin_used_inr": 50538.8,
+      "entry_time": "2026-10-29 12:53:43 IST",
+      "status": "OPEN"
+    }
+  ],
+  "closed_trades": [],
+  "realized_pnl_inr": 0.0
+}

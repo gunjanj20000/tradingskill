@@ -1,0 +1,11 @@
+{
+  "trades_today": [
+    {
+      "symbol": "SBIN.NS",
+      "quantity": 260,
+      "price": 971.9,
+      "risk_inr": 998.4,
+      "time": "2026-10-29 12:53:43 IST"
+    }
+  ]
+}
